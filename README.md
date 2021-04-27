@@ -35,7 +35,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 CQuest.earth is the earth observation (EO) platform based on Google Earth Engine and data from Google Earth Engine Data Catalog, created by Julian Kremers, CTO of CQuest. The code base was written in JavaScript.
 
 Althought Google Earth Engine is a features-rich platform for scientific analysis and visualiztion of geospatial datasets, it has some drawbacks e.g every returned values will be automatically stored as an ee object, which require getInfo() function to be called and slow down performance.
