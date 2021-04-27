@@ -52,8 +52,8 @@ major frameworks that I used to build the project:
 
 Datasets:
 
-*[MODIS and LandSat](https://developers.google.com/earth-engine/datasets/catalog) datasets from Earth Engine Data Catalog
-*[SoilGrids](https://git.wur.nl/isric/soilgrids/soilgrids.notebooks/-/blob/master/markdown/access_on_gee.md) from World Soil Information
+* [MODIS and LandSat](https://developers.google.com/earth-engine/datasets/catalog) datasets from Earth Engine Data Catalog
+* [SoilGrids](https://git.wur.nl/isric/soilgrids/soilgrids.notebooks/-/blob/master/markdown/access_on_gee.md) from World Soil Information
 
 
 <!-- GETTING STARTED -->
